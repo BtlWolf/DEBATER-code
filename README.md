@@ -13,7 +13,8 @@ pip install -r requirements.txt
 pip install flash-attn --no-build-isolation
 ```
 ## Training 
-We use the public portion of the dataset from [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368), which was curated by the authors of [Repetition Improves Language Model Embeddings](https://arxiv.org/abs/2402.15449). The dataset can be downloaded from the [GitHub page of Echo embeddings repository](https://github.com/jakespringer/echo-embeddings#training). After downloading, put it in the data folder：
+We use the dataset from [Repetition Improves Language Model Embeddings](https://arxiv.org/abs/2402.15449). The dataset can be downloaded from their  [GitHub](https://github.com/jakespringer/echo-embeddings#training). After downloading, put it in the data folder：
+
 
 ```
 data
@@ -118,4 +119,9 @@ If you find our work to be of value and helpful to your research, please acknowl
       primaryClass={cs.IR},
       url={https://arxiv.org/abs/2502.12974}, 
 }
+```
+## Contact
+If you have questions, suggestions, and bug reports, please email:
+```bash
+bigtailwolf001@gmail.com
 ```
