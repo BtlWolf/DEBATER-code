@@ -3,7 +3,7 @@
 
 [![arxiv](https://img.shields.io/badge/arXiv-2502.12974-orange?link=http%3A%2F%2Farxiv.org%2Fabs%2F2502.12974)](https://arxiv.org/abs/2502.12974)  [![HF Link](https://img.shields.io/badge/HuggingFace-DEBATER_2B-brightgreen)](https://huggingface.co/bigtailwolf/DEBATER-2B)  [![HF Link two](https://img.shields.io/badge/HuggingFace-DEBATER_4B-green)](https://huggingface.co/bigtailwolf/DEBATER-4B)
 
-DEBATER is a novel framework that introduces the Chain-of-Deliberation mechanism to iteratively optimize document representations through a continuous chain of thought. To consolidate information from multiple thinking steps, DEBATER incorporates the Self-Distillation mechanism, which identifies the most informative steps and integrates them into a unified text embedding.
+DEBATER is a novel framework that introduces the Chain-of-Deliberation mechanism to iteratively optimize document representations through a continuous chain of thought. To consolidate information from multiple thinking steps, DEBATER incorporates the Self Distillation mechanism, which identifies the most informative steps and integrates them into a unified text embedding.
 
 ![model](./images/main_new-1.png)
 
